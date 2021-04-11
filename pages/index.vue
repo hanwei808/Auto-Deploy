@@ -1,5 +1,5 @@
 <template>
-  <div>自动化部署</div>
+  <div>自动化部署-测试</div>
 </template>
 
 <script>
