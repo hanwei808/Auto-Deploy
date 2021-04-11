@@ -1,7 +1,7 @@
 {
     "apps":[
         {
-            "name": "Auto Deploy",
+            "name": "Auto-Deploy",
             "script": "npm",
             "args": "start"
         }
