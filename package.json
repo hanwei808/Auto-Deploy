@@ -1,0 +1,16 @@
+{
+  "name": "Auto-Deploy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hanwei808/Auto-Deploy.git",
+  "author": "hanwei <hancenter808@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.4"
+  }
+}
