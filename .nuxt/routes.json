@@ -1,7 +1,9 @@
 [
   {
+    "name": "index",
     "path": "/",
-    "component": "D:\\\\Big_FrontEnd\\\\CodeBase\\\\Auto-Deploy\\\\pages",
-    "_name": "_7acb4f9a"
+    "component": "D:\\\\Big_FrontEnd\\\\CodeBase\\\\Auto-Deploy\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_10c659e0"
   }
 ]
